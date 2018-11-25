@@ -1,0 +1,6 @@
+D:\לימודים 2018\C#\car\tesk(car)\tesk(car)\bin\Debug\tesk(car).exe.config
+D:\לימודים 2018\C#\car\tesk(car)\tesk(car)\bin\Debug\tesk(car).exe
+D:\לימודים 2018\C#\car\tesk(car)\tesk(car)\bin\Debug\tesk(car).pdb
+D:\לימודים 2018\C#\car\tesk(car)\tesk(car)\obj\Debug\tesk(car).csproj.CoreCompileInputs.cache
+D:\לימודים 2018\C#\car\tesk(car)\tesk(car)\obj\Debug\tesk(car).exe
+D:\לימודים 2018\C#\car\tesk(car)\tesk(car)\obj\Debug\tesk(car).pdb

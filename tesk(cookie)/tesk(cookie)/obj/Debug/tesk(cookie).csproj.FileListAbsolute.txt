@@ -1,0 +1,7 @@
+D:\לימודים 2018\C#\tesk(cookie)\tesk(cookie)\bin\Debug\tesk(cookie).exe.config
+D:\לימודים 2018\C#\tesk(cookie)\tesk(cookie)\bin\Debug\tesk(cookie).exe
+D:\לימודים 2018\C#\tesk(cookie)\tesk(cookie)\bin\Debug\tesk(cookie).pdb
+D:\לימודים 2018\C#\tesk(cookie)\tesk(cookie)\obj\Debug\tesk(cookie).csprojAssemblyReference.cache
+D:\לימודים 2018\C#\tesk(cookie)\tesk(cookie)\obj\Debug\tesk(cookie).csproj.CoreCompileInputs.cache
+D:\לימודים 2018\C#\tesk(cookie)\tesk(cookie)\obj\Debug\tesk(cookie).exe
+D:\לימודים 2018\C#\tesk(cookie)\tesk(cookie)\obj\Debug\tesk(cookie).pdb
