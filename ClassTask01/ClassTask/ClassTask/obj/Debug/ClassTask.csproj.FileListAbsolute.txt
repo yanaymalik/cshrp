@@ -1,0 +1,7 @@
+D:\לימודים 2018\C#\ClassTask01\ClassTask\ClassTask\obj\Debug\ClassTask.csprojAssemblyReference.cache
+D:\לימודים 2018\C#\ClassTask01\ClassTask\ClassTask\obj\Debug\ClassTask.csproj.CoreCompileInputs.cache
+D:\לימודים 2018\C#\ClassTask01\ClassTask\ClassTask\bin\Debug\ClassTask.exe.config
+D:\לימודים 2018\C#\ClassTask01\ClassTask\ClassTask\bin\Debug\ClassTask.exe
+D:\לימודים 2018\C#\ClassTask01\ClassTask\ClassTask\bin\Debug\ClassTask.pdb
+D:\לימודים 2018\C#\ClassTask01\ClassTask\ClassTask\obj\Debug\ClassTask.exe
+D:\לימודים 2018\C#\ClassTask01\ClassTask\ClassTask\obj\Debug\ClassTask.pdb
