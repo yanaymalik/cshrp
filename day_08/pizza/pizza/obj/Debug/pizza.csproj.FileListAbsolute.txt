@@ -1,0 +1,2 @@
+D:\לימודים 2018\C#\day_08\pizza\pizza\obj\Debug\pizza.csprojAssemblyReference.cache
+D:\לימודים 2018\C#\day_08\pizza\pizza\obj\Debug\pizza.csproj.CoreCompileInputs.cache
